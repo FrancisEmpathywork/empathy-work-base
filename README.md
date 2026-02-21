@@ -1,4 +1,4 @@
-# 💜 Empathy Work
+# 💜 Empathy work
 Projeto dedicado à sensibilização e apoio e prevenção do assédio laboral.
 
 ## 🚀 O que encontras aqui:
